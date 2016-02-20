@@ -1,6 +1,4 @@
----
-title: Grill sensor with the ESP-01 and the MAX6675 Sensor
----
+# Grill sensor with the ESP-01 and the MAX6675 Sensor
 ## Disclaimer
 Copyright (c) 2016, Uli Wolf (https://wolf-u.li)
 All rights reserved.
@@ -18,4 +16,4 @@ This repository is build using [platformio](http://platformio.org/).
 I have included the MAX6675 Library of Adafruit as it currently does not feature the fixes of a [bug](https://github.com/adafruit/MAX6675-library/issues/9). As soon as this one is included it will be removed here.
 
 ## Thanks to
- * @donatoaz for the helpful [repository](https://github.com/donatoaz/esp8266-esp01-MAX6675)
+ * [@donatoaz](https://github.com/donatoaz) for the helpful [repository](https://github.com/donatoaz/esp8266-esp01-MAX6675)
