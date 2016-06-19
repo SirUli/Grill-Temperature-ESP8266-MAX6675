@@ -5,6 +5,7 @@
 #include <WiFiClient.h>
 #include <max6675.h>
 #include <PubSubClient.h>
+#include <SPI.h>
 
 // Reuse the RX-Line for the Connection
 int thermoDO = 3;
