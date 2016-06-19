@@ -14,8 +14,8 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ## Introduction
 This repository is build using [platformio](http://platformio.org/).
 
-## Libraries
-I have included the MAX6675 Library of Adafruit as it currently does not feature the fixes of a [bug](https://github.com/adafruit/MAX6675-library/issues/9). As soon as this one is included it will be removed here.
+# Continuous Integration
+[![Build Status](https://travis-ci.org/SirUli/Grill-Temperature-ESP8266-MAX6675.svg?branch=master)](https://travis-ci.org/SirUli/Grill-Temperature-ESP8266-MAX6675)
 
 ## Thanks to
  * [@donatoaz](https://github.com/donatoaz) for the helpful [repository](https://github.com/donatoaz/esp8266-esp01-MAX6675)
